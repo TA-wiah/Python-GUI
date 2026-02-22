@@ -13,7 +13,7 @@ PyVisual is designed to simplify the way developers and designers craft graphica
 ## ▶️ Demo Video
 
 Watch it in action on YouTube:  
-📺 [https://youtu.be/your-video-link-here](https://youtu.be/your-video-link-here)
+📺 [Click Herehttps://youtu.be/VEHKsxGijG4)
 
 ---
 
@@ -23,7 +23,7 @@ To get started using or customizing PyVisual:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/pyvisual.git
+   git clone https://github.com/TA-wiahe/pyvisual.git
 Navigate into the directory:
 
 bash
